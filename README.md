@@ -31,13 +31,16 @@
 - yarn
 
 
-**working**
+**programs**
 - 1password
 - spotify
 - chrome
+- microsoft office
+- parallels
+- slack
 
 **design**
-- Adobe Creactive Cloud
+- Adobe Creactive Cloud (PS / AI)
 
 ### Keep in mind
 :warning: no sudo.
