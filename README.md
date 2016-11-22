@@ -46,5 +46,8 @@
 **design**
 - Adobe Creactive Cloud (PS / AI)
 
-### Keep in mind
-:warning: no sudo.
+### Macbook specs
+- 3,3 GHz Dual‑Core Intel Core i7, Turbo Boost til 3,6 GHz
+- 16 GB RAM
+- 1 TB SSD
+- Intel Iris Graphics 550
