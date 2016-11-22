@@ -39,19 +39,18 @@
 |      | nvm                             | node       | Website
 |      | rvm                             | ruby       | Website
 
-**dev bin**
-- htop
-- git
+### Other
+|      | Name                            | For        | Website
+| ---- | ------------------------------- | ---------- | -------------------------------------------------------------------------------
+|      | `htop`                          | Interactive process viewer       | [hisham.hm/htop](https://hisham.hm/htop/)
+|      | `git`                           | Version control                  | [git-scm.com](https://git-scm.com/)
 
-**lang**
-- ruby
-- node
-- python
 
 ### Macbook Specs
-| Unit | Spec
-| ---- | -------------------------
-| CPU  | 3,3 GHz Dual‑Core Intel Core i7, Turbo Boost til 3,6 GHz
-| RAM  | 16 GB 2133 MHz
-| GPU  | Intel Iris Graphics 550
-| SSD  | 1 TB PCIe Basis
+| Unit     | Spec
+| -------- | -------------------------
+| CPU      | 3,3 GHz Dual‑Core Intel Core i7, Turbo Boost til 3,6 GHz
+| RAM      | 16 GB 2133 MHz
+| GPU      | Intel Iris Graphics 550
+| SSD      | 1 TB PCIe Basis
+| Display  | 13"
