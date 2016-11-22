@@ -4,8 +4,7 @@
 |      | Name                            | Description           | Website
 | ---- | ------------------------------- | --------------------- | -------------------------------------------------------------------------------
 | ![](./resources/logos/atom.png)        | Atom                  | Code Editor                  | [atom.io](https://atom.io)
-| ![](./resources/logos/hyper.png)       | hyperterm             | Terminal                     | [hyper.is](https://hyper.is/)
-| ![](./resources/logos/iterm.png)       | iTerm                 | Terminal                     | [hyper.is](https://hyper.is/)
+| ![](./resources/logos/iterm.png)       | iTerm2                | Terminal emulator            | [iterm2.com](https://www.iterm2.com/)
 | ![](./resources/logos/docker.png)      | Docker                | Virtual containers           | [docker.com](https://docker.com)
 | ![](./resources/logos/kitematic.png)   | Kitematic             | UI/Toobox for docker         | [kitematic.com](https://kitematic.com/)
 | ![](./resources/logos/tower.png)       | Tower                 | Git UI client                | [git-tower.com](https://www.git-tower.com/mac/)
@@ -16,17 +15,31 @@
 | ![](./resources/logos/alfred.png)      | Alfred                | Search bar on steroids       | [alfredapp.com](https://www.alfredapp.com/)
 | ![](./resources/logos/sizeup.png)      | Size-Up               | Window manager               | [irradiatedsoftware.com/sizeup](http://www.irradiatedsoftware.com/sizeup/)
 | ![](./resources/logos/resilio.png)     | Resilio Sync          | File synchronization         | [resilio.com](https://www.resilio.com/)
-| ![](./resources/logos/1password.png)   | 1Password             | Password Manager             | [resilio.com](https://www.resilio.com/)
-| ![](./resources/logos/spotify.png)     | Spotify               | Music                        | [resilio.com](https://www.resilio.com/)
-| ![](./resources/logos/chrome.png)      | Chrome                | Browser                      | [resilio.com](https://www.resilio.com/)
-| ![](./resources/logos/office.png)      | Microsoft Office      | Word, Excel etc..            | [resilio.com](https://www.resilio.com/)
-| ![](./resources/logos/slack.png)       | Slack                 | Team Messenger               | [resilio.com](https://www.resilio.com/)
-| ![](./resources/logos/postico.png)     | Postico               | Postgresql UI                | [resilio.com](https://www.resilio.com/)
-| ![](./resources/logos/vlc.png)         | Video Player          | Postgresql UI                | [resilio.com](https://www.resilio.com/)
+| ![](./resources/logos/1password.png)   | 1Password             | Password Manager             | [1password.com](https://1password.com/)
+| ![](./resources/logos/spotify.png)     | Spotify               | Music                        | [spotify.com](https://www.spotify.com/)
+| ![](./resources/logos/chrome.png)      | Chrome                | Browser                      | [chrome.com](https://www.chrome.com/)
+| ![](./resources/logos/office.png)      | Microsoft Office      | Word, Excel etc..            | [office.com](https://www.office.com/)
+| ![](./resources/logos/slack.png)       | Slack                 | Team Messenger               | [slack.com](https://www.slack.com/)
+| ![](./resources/logos/postico.png)     | Postico               | Postgresql UI                | [eggeraps.at/postico](https://eggerapps.at/postico/)
+| ![](./resources/logos/vlc.png)         | VLC Player            | Video player                 | [vlc.com](https://www.vlc.com/)
+| ![](./resources/logos/adobe.png)       | Adobe Creative Cloud  | Photoshop, Illustrator etc.. | [adobe.com](https://www.adobe.com/)
+
+### Package Manager
+|      | Name                            | For        | Website
+| ---- | ------------------------------- | ---------- | -------------------------------------------------------------------------------
+|      | Brew                            | macOS      | Website
+|      | npm                             | node       | Website
+|      | yarn                            | node       | Website
+|      | pip                             | python     | Website
+|      | bundler                         | ruby       | Website
+
+### Version Manager
+|      | Name                            | For        | Website
+| ---- | ------------------------------- | ---------- | -------------------------------------------------------------------------------
+|      | nvm                             | node       | Website
+|      | rvm                             | ruby       | Website
 
 **dev bin**
-- brew
-- nvm
 - htop
 - git
 
@@ -35,16 +48,10 @@
 - node
 - python
 
-**node global packages**
-- yarn
-
-
-**programs**
-**design**
-- Adobe Creactive Cloud (PS / AI)
-
-### Macbook specs
-- 3,3 GHz Dual‑Core Intel Core i7, Turbo Boost til 3,6 GHz
-- 16 GB RAM
-- 1 TB SSD
-- Intel Iris Graphics 550
+### Macbook Specs
+| Unit | Spec
+| ---- | -------------------------
+| CPU  | 3,3 GHz Dual‑Core Intel Core i7, Turbo Boost til 3,6 GHz
+| RAM  | 16 GB 2133 MHz
+| GPU  | Intel Iris Graphics 550
+| SSD  | 1 TB PCIe Basis
