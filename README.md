@@ -3,7 +3,7 @@
 ### Apps
 |      | Name                  | Description                  | Website
 | ---- | --------------------- | ---------------------------- | -----
-| <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/2000px-Atom_editor_logo.svg.png' width='50px' /> | Atom                  | Code Editor                  | [atom.io](https://atom.io)
+| ![](./resources/logos/atom.png) | Atom                  | Code Editor                  | [atom.io](https://atom.io)
 |  | Hyper                 | Terminal                     | [hyper.is](https://hyper.is/)
 |  | Docker                | Virtual containers           | [docker.com](https://docker.com)
 |  | Kitematic             | UI/Toobox for docker         | [kitematic.com](https://kitematic.com/)
