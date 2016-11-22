@@ -1,15 +1,43 @@
 # Setup my new macbook
 
-Programms:
-- **dev**
+**dev programs**
 - atom
-- hyper
-- **working**
-- 1password
-- spotify
+- hyper / iTerm
+- docker
+- kitematic (manage docker)
+- tower (git)
 
-CLI:
+**Tray**
+- bartender
+- dropshare
+- feed
+- fantastical
+- alfred
+- size-up
+- resilio sync
+
+**dev bin**
 - brew
 - nvm
-- docker 
-- kitematic (manage docker)
+- htop
+- git
+
+**lang**
+- ruby
+- node
+- python
+
+**node global packages**
+- yarn
+
+
+**working**
+- 1password
+- spotify
+- chrome
+
+**design**
+- Adobe Creactive Cloud
+
+### Keep in mind
+:warning: no sudo.
