@@ -1,2 +1,15 @@
-# setup-new-macbook
-I got a new macbook, here you can see what's my steps to get a dev-ready machine
+# Setup my new macbook
+
+Programms:
+- **dev**
+- atom
+- hyper
+- **working**
+- 1password
+- spotify
+
+CLI:
+- brew
+- nvm
+- docker 
+- kitematic (manage docker)
