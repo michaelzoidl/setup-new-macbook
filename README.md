@@ -1,4 +1,5 @@
 # Setup my new macbook
+In the next days my new macbook will arrive, this is the software i've to install before i can start working on stuff.
 
 ### Apps
 |      | Name                            | Description           | Website
