@@ -4,26 +4,26 @@ In the next days my new macbook will arrive, this is the software i've to instal
 ### Apps
 |      | Name                            | Description           | Website                                                                                                      | Homebrew Cask
 | ---- | ------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------
-| ![](./resources/logos/atom.png)        | Atom                  | Code Editor                  | [atom.io](https://atom.io)                                                    | `brew cask install atom`
-| ![](./resources/logos/iterm.png)       | iTerm2                | Terminal emulator            | [iterm2.com](https://www.iterm2.com/)                                         | `brew cask install iterm2`
-| ![](./resources/logos/docker.png)      | Docker                | Virtual containers           | [docker.com](https://docker.com)                                              | `brew cask install docker`
-| ![](./resources/logos/kitematic.png)   | Kitematic             | UI/Toobox for docker         | [kitematic.com](https://kitematic.com/)                                       | `brew cask install kitematic`
-| ![](./resources/logos/tower.png)       | Tower                 | Git UI client                | [git-tower.com](https://www.git-tower.com/mac/)                               | `brew cask install tower`
-| ![](./resources/logos/bartender.png)   | Bartender             | Organize mac menu apps       | [macbartender.com](https://www.macbartender.com/)                             | `brew cask install bartender`
-| ![](./resources/logos/dropshare.png)   | Dropshare             | Private file sharing         | [getdropsha.re](https://getdropsha.re/)                                       | `brew cask install dropshare`
-| ![](./resources/logos/feeds.png)       | Feeds                 | RSS Reader for menu bar      | [feedsapp.com](http://www.feedsapp.com/)                                      | `brew cask install feeds`
-| ![](./resources/logos/fantastical.png) | Fantastical           | Calendar app                 | [flexbits.com/fantastical](https://flexibits.com/fantastical)                 | `brew cask install fantastical`
-| ![](./resources/logos/alfred.png)      | Alfred                | Search bar on steroids       | [alfredapp.com](https://www.alfredapp.com/)                                   | `brew cask install alfred`
-| ![](./resources/logos/sizeup.png)      | Size-Up               | Window manager               | [irradiatedsoftware.com/sizeup](http://www.irradiatedsoftware.com/sizeup/)    | `brew cask install sizeup`
-| ![](./resources/logos/resilio.png)     | Resilio Sync          | File synchronization         | [resilio.com](https://www.resilio.com/)                                       | `brew cask install resilio-sync`
-| ![](./resources/logos/1password.png)   | 1Password             | Password Manager             | [1password.com](https://1password.com/)                                       | `brew cask install 1password`
-| ![](./resources/logos/spotify.png)     | Spotify               | Music                        | [spotify.com](https://www.spotify.com/)                                       | `brew cask install spotify`
-| ![](./resources/logos/chrome.png)      | Chrome                | Browser                      | [chrome.com](https://www.chrome.com/)                                         | `brew cask install googlechrome`
-| ![](./resources/logos/office.png)      | Microsoft Office      | Word, Excel etc..            | [office.com](https://www.office.com/)                                         | `brew cask install microsoft-office`
-| ![](./resources/logos/slack.png)       | Slack                 | Team Messenger               | [slack.com](https://www.slack.com/)                                           | `brew cask install slack`
-| ![](./resources/logos/postico.png)     | Postico               | Postgresql UI                | [eggeraps.at/postico](https://eggerapps.at/postico/)                          | `brew cask install positco`
-| ![](./resources/logos/vlc.png)         | VLC Player            | Video player                 | [vlc.com](https://www.vlc.com/)                                               | `brew cask install vlc`
-| ![](./resources/logos/adobe.png)       | Adobe Creative Cloud  | Photoshop, Illustrator etc.. | [adobe.com](https://www.adobe.com/)                                           | `brew cask install adobe-creative-cloud`
+| ![](./resources/logos/atom.png)        | Atom                  | Code Editor                  | [atom.io](https://atom.io)                                                    | `atom`
+| ![](./resources/logos/iterm.png)       | iTerm2                | Terminal emulator            | [iterm2.com](https://www.iterm2.com/)                                         | `iterm2`
+| ![](./resources/logos/docker.png)      | Docker                | Virtual containers           | [docker.com](https://docker.com)                                              | `docker`
+| ![](./resources/logos/kitematic.png)   | Kitematic             | UI/Toobox for docker         | [kitematic.com](https://kitematic.com/)                                       | `kitematic`
+| ![](./resources/logos/tower.png)       | Tower                 | Git UI client                | [git-tower.com](https://www.git-tower.com/mac/)                               | `tower`
+| ![](./resources/logos/bartender.png)   | Bartender             | Organize mac menu apps       | [macbartender.com](https://www.macbartender.com/)                             | `bartender`
+| ![](./resources/logos/dropshare.png)   | Dropshare             | Private file sharing         | [getdropsha.re](https://getdropsha.re/)                                       | `dropshare`
+| ![](./resources/logos/feeds.png)       | Feeds                 | RSS Reader for menu bar      | [feedsapp.com](http://www.feedsapp.com/)                                      | `feeds`
+| ![](./resources/logos/fantastical.png) | Fantastical           | Calendar app                 | [flexbits.com/fantastical](https://flexibits.com/fantastical)                 | `fantastical`
+| ![](./resources/logos/alfred.png)      | Alfred                | Search bar on steroids       | [alfredapp.com](https://www.alfredapp.com/)                                   | `alfred`
+| ![](./resources/logos/sizeup.png)      | Size-Up               | Window manager               | [irradiatedsoftware.com/sizeup](http://www.irradiatedsoftware.com/sizeup/)    | `sizeup`
+| ![](./resources/logos/resilio.png)     | Resilio Sync          | File synchronization         | [resilio.com](https://www.resilio.com/)                                       | `resilio-sync`
+| ![](./resources/logos/1password.png)   | 1Password             | Password Manager             | [1password.com](https://1password.com/)                                       | `1password`
+| ![](./resources/logos/spotify.png)     | Spotify               | Music                        | [spotify.com](https://www.spotify.com/)                                       | `spotify`
+| ![](./resources/logos/chrome.png)      | Chrome                | Browser                      | [chrome.com](https://www.chrome.com/)                                         | `googlechrome`
+| ![](./resources/logos/office.png)      | Microsoft Office      | Word, Excel etc..            | [office.com](https://www.office.com/)                                         | `microsoft-office`
+| ![](./resources/logos/slack.png)       | Slack                 | Team Messenger               | [slack.com](https://www.slack.com/)                                           | `slack`
+| ![](./resources/logos/postico.png)     | Postico               | Postgresql UI                | [eggeraps.at/postico](https://eggerapps.at/postico/)                          | `positco`
+| ![](./resources/logos/vlc.png)         | VLC Player            | Video player                 | [vlc.com](https://www.vlc.com/)                                               | `vlc`
+| ![](./resources/logos/adobe.png)       | Adobe Creative Cloud  | Photoshop, Illustrator etc.. | [adobe.com](https://www.adobe.com/)                                           | `adobe-creative-cloud`
 
 ### Package Manager
 |      | Name                            | For        | Install
