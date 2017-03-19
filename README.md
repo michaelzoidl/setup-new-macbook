@@ -2,43 +2,40 @@
 In the next days my new macbook will arrive, this is the software i've to install before i can start working on stuff.
 
 ### Apps
-|      | Name                            | Description           | Website
-| ---- | ------------------------------- | --------------------- | -------------------------------------------------------------------------------
-| ![](./resources/logos/atom.png)        | Atom                  | Code Editor                  | [atom.io](https://atom.io)
-| ![](./resources/logos/iterm.png)       | iTerm2                | Terminal emulator            | [iterm2.com](https://www.iterm2.com/)
-| ![](./resources/logos/docker.png)      | Docker                | Virtual containers           | [docker.com](https://docker.com)
-| ![](./resources/logos/kitematic.png)   | Kitematic             | UI/Toobox for docker         | [kitematic.com](https://kitematic.com/)
-| ![](./resources/logos/tower.png)       | Tower                 | Git UI client                | [git-tower.com](https://www.git-tower.com/mac/)
-| ![](./resources/logos/bartender.png)   | Bartender             | Organize mac menu apps       | [macbartender.com](https://www.macbartender.com/)
-| ![](./resources/logos/dropshare.png)   | Dropshare             | Private file sharing         | [getdropsha.re](https://getdropsha.re/)
-| ![](./resources/logos/feeds.png)       | Feeds                 | RSS Reader for menu bar      | [feedsapp.com](http://www.feedsapp.com/)
-| ![](./resources/logos/fantastical.png) | Fantastical           | Calendar app                 | [flexbits.com/fantastical](https://flexibits.com/fantastical)
-| ![](./resources/logos/alfred.png)      | Alfred                | Search bar on steroids       | [alfredapp.com](https://www.alfredapp.com/)
-| ![](./resources/logos/sizeup.png)      | Size-Up               | Window manager               | [irradiatedsoftware.com/sizeup](http://www.irradiatedsoftware.com/sizeup/)
-| ![](./resources/logos/resilio.png)     | Resilio Sync          | File synchronization         | [resilio.com](https://www.resilio.com/)
-| ![](./resources/logos/1password.png)   | 1Password             | Password Manager             | [1password.com](https://1password.com/)
-| ![](./resources/logos/spotify.png)     | Spotify               | Music                        | [spotify.com](https://www.spotify.com/)
-| ![](./resources/logos/chrome.png)      | Chrome                | Browser                      | [chrome.com](https://www.chrome.com/)
-| ![](./resources/logos/office.png)      | Microsoft Office      | Word, Excel etc..            | [office.com](https://www.office.com/)
-| ![](./resources/logos/slack.png)       | Slack                 | Team Messenger               | [slack.com](https://www.slack.com/)
-| ![](./resources/logos/postico.png)     | Postico               | Postgresql UI                | [eggeraps.at/postico](https://eggerapps.at/postico/)
-| ![](./resources/logos/vlc.png)         | VLC Player            | Video player                 | [vlc.com](https://www.vlc.com/)
-| ![](./resources/logos/adobe.png)       | Adobe Creative Cloud  | Photoshop, Illustrator etc.. | [adobe.com](https://www.adobe.com/)
+|      | Name                            | Description           | Website                                                                                                      | Homebrew Cask
+| ---- | ------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------
+| ![](./resources/logos/atom.png)        | Atom                  | Code Editor                  | [atom.io](https://atom.io)                                                    | `brew cask install atom`
+| ![](./resources/logos/iterm.png)       | iTerm2                | Terminal emulator            | [iterm2.com](https://www.iterm2.com/)                                         | `brew cask install iterm2`
+| ![](./resources/logos/docker.png)      | Docker                | Virtual containers           | [docker.com](https://docker.com)                                              | `brew cask install docker`
+| ![](./resources/logos/kitematic.png)   | Kitematic             | UI/Toobox for docker         | [kitematic.com](https://kitematic.com/)                                       | `brew cask install kitematic`
+| ![](./resources/logos/tower.png)       | Tower                 | Git UI client                | [git-tower.com](https://www.git-tower.com/mac/)                               | `brew cask install tower`
+| ![](./resources/logos/bartender.png)   | Bartender             | Organize mac menu apps       | [macbartender.com](https://www.macbartender.com/)                             | `brew cask install bartender`
+| ![](./resources/logos/dropshare.png)   | Dropshare             | Private file sharing         | [getdropsha.re](https://getdropsha.re/)                                       | `brew cask install dropshare`
+| ![](./resources/logos/feeds.png)       | Feeds                 | RSS Reader for menu bar      | [feedsapp.com](http://www.feedsapp.com/)                                      | `brew cask install feeds`
+| ![](./resources/logos/fantastical.png) | Fantastical           | Calendar app                 | [flexbits.com/fantastical](https://flexibits.com/fantastical)                 | `brew cask install fantastical`
+| ![](./resources/logos/alfred.png)      | Alfred                | Search bar on steroids       | [alfredapp.com](https://www.alfredapp.com/)                                   | `brew cask install alfred`
+| ![](./resources/logos/sizeup.png)      | Size-Up               | Window manager               | [irradiatedsoftware.com/sizeup](http://www.irradiatedsoftware.com/sizeup/)    | `brew cask install sizeup`
+| ![](./resources/logos/resilio.png)     | Resilio Sync          | File synchronization         | [resilio.com](https://www.resilio.com/)                                       | `brew cask install resilio-sync`
+| ![](./resources/logos/1password.png)   | 1Password             | Password Manager             | [1password.com](https://1password.com/)                                       | `brew cask install 1password`
+| ![](./resources/logos/spotify.png)     | Spotify               | Music                        | [spotify.com](https://www.spotify.com/)                                       | `brew cask install spotify`
+| ![](./resources/logos/chrome.png)      | Chrome                | Browser                      | [chrome.com](https://www.chrome.com/)                                         | `brew cask install googlechrome`
+| ![](./resources/logos/office.png)      | Microsoft Office      | Word, Excel etc..            | [office.com](https://www.office.com/)                                         | `brew cask install microsoft-office`
+| ![](./resources/logos/slack.png)       | Slack                 | Team Messenger               | [slack.com](https://www.slack.com/)                                           | `brew cask install slack`
+| ![](./resources/logos/postico.png)     | Postico               | Postgresql UI                | [eggeraps.at/postico](https://eggerapps.at/postico/)                          | `brew cask install positco`
+| ![](./resources/logos/vlc.png)         | VLC Player            | Video player                 | [vlc.com](https://www.vlc.com/)                                               | `brew cask install vlc`
+| ![](./resources/logos/adobe.png)       | Adobe Creative Cloud  | Photoshop, Illustrator etc.. | [adobe.com](https://www.adobe.com/)                                           | `brew cask install adobe-creative-cloud`
 
 ### Package Manager
-|      | Name                            | For        | Website
-| ---- | ------------------------------- | ---------- | -------------------------------------------------------------------------------
-|      | Brew                            | macOS      | Website
-|      | npm                             | node       | Website
-|      | yarn                            | node       | Website
-|      | pip                             | python     | Website
-|      | bundler                         | ruby       | Website
+|      | Name                            | For        | Install
+| ---- | ------------------------------- | ---------- | -------
+|      | Homebrew                        | macOS      | `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+|      | npm                             | node       | _installed with node_
+|      | yarn                            | node       | `brew install yarn`
 
 ### Version Manager
 |      | Name                            | For        | Website
 | ---- | ------------------------------- | ---------- | -------------------------------------------------------------------------------
-|      | nvm                             | node       | Website
-|      | rvm                             | ruby       | Website
+|      | nvm                             | node       | `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash`
 
 ### Other
 |      | Name                            | For        | Website
@@ -46,6 +43,38 @@ In the next days my new macbook will arrive, this is the software i've to instal
 |      | `htop`                          | Interactive process viewer       | [hisham.hm/htop](https://hisham.hm/htop/)
 |      | `git`                           | Version control                  | [git-scm.com](https://git-scm.com/)
 
+### Mac default changes
+> Credits to [github/mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
+
+```cl
+# Set sidebar icon size to small
+defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 1
+
+# Restart automatically if the computer freezes
+sudo systemsetup -setrestartfreeze on
+
+# Never go into computer sleep mode
+sudo systemsetup -setcomputersleep Off > /dev/null
+
+# Disable smart quotes as they’re annoying when typing code
+defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
+
+# Increase sound quality for Bluetooth headphones/headsets
+defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 40
+
+# Finder: show hidden files by default
+defaults write com.apple.finder AppleShowAllFiles -bool true
+
+# Disable the warning when changing a file extension
+defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
+
+# Keep folders on top when sorting by name
+defaults write com.apple.finder _FXSortFoldersFirst -bool true
+
+## SizeUp.app default change:
+# Don’t show the preferences window on next start
+defaults write com.irradiatedsoftware.SizeUp ShowPrefsOnNextStart -bool false
+```
 
 ### Macbook Specs
 | Unit     | Spec
